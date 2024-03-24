@@ -283,7 +283,7 @@ navbar>a{
  #subtitles{
     padding-top: 10px;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     font-style: italic;
  }
